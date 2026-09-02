@@ -2,6 +2,12 @@
 
 A PyTorch baseline for binary dental-caries segmentation in cropped panoramic X-rays. The model fine-tunes a pretrained ViT-Base/16 encoder and uses object-focused self-attention.
 
+## Development Timeline
+
+Initial development and experimentation of this project was completed earlier as an
+independent extension of my dental panoramic imaging research experience.
+This repository was first published after the initial project was complete.
+
 ## Approach
 
 - TIMM ViT-Base/16 encoder: 12 layers, 12 heads, 768 hidden dimensions
